@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         
          // Do any additional setup after loading the view.
-        let s : string = "mahmoud"
+        let s : String = "mahmoud"
     }
 
 }
